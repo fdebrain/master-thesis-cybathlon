@@ -6,7 +6,7 @@ scipy==1.4.1
 scikit-learn==0.22.1
 scikit-optimize==0.7.4
 mne==0.18
-tensorflow==2.3.1
+tensorflow==2.4.0
 comet_ml==2.0
 joblib==0.13.2
 pylsl
